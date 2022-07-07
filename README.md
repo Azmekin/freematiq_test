@@ -7,7 +7,7 @@
 
 ***
 
-<VirtualHost *:80>
+        <VirtualHost *:80>
         ServerName frontend.test
         DocumentRoot "/path/to/yii-application/frontend/web/"
         
